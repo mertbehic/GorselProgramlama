@@ -1,0 +1,10 @@
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\bin\Debug\sayitahmin.exe.config
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\bin\Debug\sayitahmin.exe
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\bin\Debug\sayitahmin.pdb
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csproj.AssemblyReference.cache
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.Form1.resources
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.Properties.Resources.resources
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csproj.GenerateResource.cache
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.csproj.CoreCompileInputs.cache
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.exe
+C:\Users\Topkapi Universitesi\source\repos\sayitahmin\sayitahmin\obj\Debug\sayitahmin.pdb
